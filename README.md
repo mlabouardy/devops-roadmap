@@ -8,6 +8,12 @@
 
 <image src="assets/cover.jpg">
 
+### 🧰 Learn DevOps, one week at a time. Subscribe to [DevOps Bulletin](https://www.devopsbulletin.com/) for hands-on guides, new tools, and weekly insights loved by thousands engineers.
+
+### ⭐ If this roadmap helped you, please give it a star on GitHub to help others discover it!
+
+---
+
 ## 📋 Table of Contents
 
 - [🎯 Introduction](docs/introduction.md)
